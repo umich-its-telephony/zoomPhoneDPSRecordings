@@ -1,0 +1,6 @@
+application.properties
+.camel/
+downloads/
+logs/
+target/
+/certificate/
